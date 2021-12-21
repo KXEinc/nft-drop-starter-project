@@ -1,0 +1,19 @@
+{
+  "name": "MATRIX_JUNIOR",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "D5uP2LcEx1ZQidqYvXjxgt9N2UDGHgsF8D4kXSjH7pmT",
+        "share": 100
+      }
+    ]
+  }
+}
